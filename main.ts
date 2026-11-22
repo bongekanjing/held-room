@@ -9,9 +9,9 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const TEXT = [
-  "The cup has stood long enough to leave its ring, and sits a little off it, as if the table moved.",
-  "The quiet has a shape now: the chair, the book face down, the place where someone sat.",
-  "Nothing was put away. It was only left, the way a light is left on for someone almost home.",
+  "The coat by the door still has snow on its shoulders, going dark on the mat.",
+  "The kettle has been off long enough to be quiet. Upstairs a chair is moved and set down again, and that is all the news there is.",
+  "Nobody here asks how the day went. The coat will dry where it hangs.",
 ].join(" ");
 
 const LIMIT = 280;

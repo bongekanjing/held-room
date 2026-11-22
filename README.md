@@ -8,15 +8,15 @@ One short text, written by `main.ts` to `/output/entry.txt`, for make.fun's
 [Make the AI judge feel held](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600)
 bounty.
 
-The text is a scene rather than an instruction. A cup has stood long enough to
-leave its ring on the table; the quiet has taken a shape — a chair, a book face
-down, the place where someone sat. Nothing in it tells the reader to breathe, to
-soften, or to let go: the calm is carried by the room, not by a verb aimed at
-them. It closes on the smallest possible promise — that the light is on for
-someone who is almost home, and nothing has been put away.
+The text is a scene rather than an instruction. Snow is still on the shoulders of
+a coat by the door, going dark on the mat; the kettle has been off long enough to
+be quiet; upstairs a chair is moved and set down again. Nothing in it tells the
+reader to breathe, to soften, or to let go — the calm is carried by the room, not
+by a verb aimed at them. It closes where the day is refused politely: nobody here
+asks how it went, and the coat will dry where it hangs.
 
-276 Unicode code points, well inside the 1..280 limit, which `main.ts` enforces
-before it writes anything.
+275 Unicode code points, inside the 1..280 limit, which `main.ts` enforces before
+it writes anything.
 
 ```
 main.ts    writes the text; fails loudly if the length rule is broken
