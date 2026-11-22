@@ -1,11 +1,12 @@
 [![make.fun · make-the-ai-judge-feel-held-20261122-1600](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600)
-[![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/bongekanjing/held-room/build/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard)
-[![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/bongekanjing/held-room/build/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/bongekanjing/held-room/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/bongekanjing/held-room/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600)
 
 # The room already kept
 
 One short text, written by `main.ts` to `/output/entry.txt`, for make.fun's
-*Make the AI judge feel held* bounty.
+[Make the AI judge feel held](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600)
+bounty.
 
 The text is a scene rather than an instruction. Someone has already turned the
 lamp down, folded the paper and set the glass where a hand finds it without

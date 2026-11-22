@@ -1,1 +1,8 @@
 out
+*.db
+*.db-shm
+*.db-wal
+st/
+t.tar
+t2.tar
+transcripts.tar.gz
