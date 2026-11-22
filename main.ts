@@ -9,8 +9,9 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const TEXT = [
-  "The light is already turned down. Someone folded the paper and set the glass where your hand finds it without looking.",
-  "Outside, a car goes by and does not stop. Nothing here needs you to finish the thought. It will keep.",
+  "The cup has stood long enough to leave its ring, and sits a little off it, as if the table moved.",
+  "The quiet has a shape now: the chair, the book face down, the place where someone sat.",
+  "Nothing was put away. It was only left, the way a light is left on for someone almost home.",
 ].join(" ");
 
 const LIMIT = 280;
